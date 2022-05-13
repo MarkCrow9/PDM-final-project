@@ -23,4 +23,4 @@ My version of the project was built on Arduino Uno, though this may not be requi
 
 
 ## Thoughts of future development
-Future developments of the project will include introducing levels, fixing gravity, and further fleshing the story out. 
+Future developments of the project will include introducing levels, fixing gravity, and further fleshing the story out. In terms of levels, there would be areas to the game, akin to worlds from mario, that the player would progress through. starting in the forest and progressing through cities, suburbs, and other such environments on the journey home. A major aspect of improvement for future development is sounds. Currently the sound of the game is a backing track and 3 sound effects. If given more time there would be start screen music, additional sounds for movement and other game events, as well as different music for different areas of the game.
