@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+# Homebound
 
-You can use the [editor on GitHub](https://github.com/MarkCrow9/PDM-final-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Homebound is a 2d platformer designed to be played using arduino as the player controller. With this, the user inputs commands to their arduino using the code provided by the 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
